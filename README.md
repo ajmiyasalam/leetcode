@@ -13,4 +13,9 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/ajmiyasalam/leetcode/tree/master/0412-fizz-buzz) |
+| [2058-concatenation-of-array](https://github.com/ajmiyasalam/leetcode/tree/master/2058-concatenation-of-array) |
+## Array
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/ajmiyasalam/leetcode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
