@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/ajmiyasalam/leetcode/tree/master/0412-fizz-buzz) |
+| [2491-smallest-even-multiple](https://github.com/ajmiyasalam/leetcode/tree/master/2491-smallest-even-multiple) |
 ## String
 |  |
 | ------- |
@@ -18,4 +19,8 @@
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/ajmiyasalam/leetcode/tree/master/2058-concatenation-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/ajmiyasalam/leetcode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
