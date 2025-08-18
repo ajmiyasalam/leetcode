@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/ajmiyasalam/leetcode/tree/master/0412-fizz-buzz) |
+| [0742-to-lower-case](https://github.com/ajmiyasalam/leetcode/tree/master/0742-to-lower-case) |
 ## Simulation
 |  |
 | ------- |
