@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ajmiyasalam/leetcode/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/ajmiyasalam/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ajmiyasalam/leetcode/tree/master/0268-missing-number) |
 | [2058-concatenation-of-array](https://github.com/ajmiyasalam/leetcode/tree/master/2058-concatenation-of-array) |
 ## Number Theory
@@ -41,6 +42,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ajmiyasalam/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ajmiyasalam/leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
