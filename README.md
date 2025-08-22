@@ -7,6 +7,7 @@
 | [0009-palindrome-number](https://github.com/ajmiyasalam/leetcode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/ajmiyasalam/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/ajmiyasalam/leetcode/tree/master/0412-fizz-buzz) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ajmiyasalam/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2491-smallest-even-multiple](https://github.com/ajmiyasalam/leetcode/tree/master/2491-smallest-even-multiple) |
 ## String
 |  |
