@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/ajmiyasalam/leetcode/tree/master/0412-fizz-buzz) |
+| [0557-reverse-words-in-a-string-iii](https://github.com/ajmiyasalam/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/ajmiyasalam/leetcode/tree/master/0742-to-lower-case) |
 ## Simulation
 |  |
@@ -45,4 +46,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ajmiyasalam/leetcode/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0557-reverse-words-in-a-string-iii](https://github.com/ajmiyasalam/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 <!---LeetCode Topics End-->
