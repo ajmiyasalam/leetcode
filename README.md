@@ -12,6 +12,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ajmiyasalam/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/ajmiyasalam/leetcode/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/ajmiyasalam/leetcode/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ajmiyasalam/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -53,5 +54,10 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ajmiyasalam/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ajmiyasalam/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ajmiyasalam/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
