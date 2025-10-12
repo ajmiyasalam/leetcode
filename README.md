@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ajmiyasalam/leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/ajmiyasalam/leetcode/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/ajmiyasalam/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ajmiyasalam/leetcode/tree/master/0268-missing-number) |
 | [2058-concatenation-of-array](https://github.com/ajmiyasalam/leetcode/tree/master/2058-concatenation-of-array) |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ajmiyasalam/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/ajmiyasalam/leetcode/tree/master/0027-remove-element) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ajmiyasalam/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Dynamic Programming
 |  |
